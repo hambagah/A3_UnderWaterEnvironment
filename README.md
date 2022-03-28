@@ -1,10 +1,7 @@
 # A3_UnderWaterEnvironment
 ## Work that needs to be done
 
-- [ ] get the school of fish models into the final project file
-- [ ] implement snow falling and add it to the final project file
-
-find/create models for ...
+find/create and add models for ...
 
 > - [ ] hagfish
 
@@ -16,6 +13,11 @@ find/create models for ...
 
 > - [ ] sharks
 
+> - [ ] school of fish
+
+into the final project file
+
+- [ ] implement snow falling and add it to the final project file
 
 implement interaction between the camera and ...
 
