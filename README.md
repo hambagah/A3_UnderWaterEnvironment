@@ -5,11 +5,11 @@ find/create and add models for ...
 
 > - [ ] hagfish
 
-> - [ ] crabs
+> - [X] crabs
 
 > - [ ] worms
 
-> - [ ] octopus
+> - [X] octopus
 
 > - [ ] sharks
 
