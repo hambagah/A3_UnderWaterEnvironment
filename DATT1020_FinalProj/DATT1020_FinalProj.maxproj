@@ -2,7 +2,7 @@
 	"name" : "DATT1020_FinalProj",
 	"version" : 1,
 	"creationdate" : 3731303335,
-	"modificationdate" : 3731825739,
+	"modificationdate" : 3731904380,
 	"viewrect" : [ 1882.0, 656.0, 296.0, 496.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -54,13 +54,21 @@
 				"local" : 1
 			}
 ,
-			"crab.obj" : 			{
+			"schoolfish.obj" : 			{
 				"kind" : "model",
 				"local" : 1
 			}
 ,
-			"schoolfish.obj" : 			{
+			"crab.obj" : 			{
 				"kind" : "model",
+				"local" : 1
+			}
+
+		}
+,
+		"other" : 		{
+			"crab.mtl" : 			{
+				"kind" : "file",
 				"local" : 1
 			}
 
