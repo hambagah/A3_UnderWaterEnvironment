@@ -5,19 +5,19 @@ find/create and add models for ...
 
 > - [ ] hagfish
 
-> - [ ] crabs
+> - [X] crabs
 
 > - [ ] worms
 
-> - [ ] octopus
+> - [X] octopus
 
 > - [ ] sharks
 
-> - [ ] school of fish
+> - [X] school of fish
 
 into the final project file
 
-- [ ] implement snow falling and add it to the final project file
+- [X] implement snow falling and add it to the final project file
 
 implement interaction between the camera and ...
 
