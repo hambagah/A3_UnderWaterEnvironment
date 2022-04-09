@@ -2,8 +2,8 @@
 	"name" : "DATT1020_FinalProj",
 	"version" : 1,
 	"creationdate" : 3731303335,
-	"modificationdate" : 3731904380,
-	"viewrect" : [ 1882.0, 656.0, 296.0, 496.0 ],
+	"modificationdate" : 3732365132,
+	"viewrect" : [ 951.0, 297.0, 296.0, 496.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
 	"showdependencies" : 1,
@@ -60,6 +60,21 @@
 			}
 ,
 			"crab.obj" : 			{
+				"kind" : "model",
+				"local" : 1
+			}
+,
+			"fangtooth.obj" : 			{
+				"kind" : "model",
+				"local" : 1
+			}
+,
+			"snail.obj" : 			{
+				"kind" : "model",
+				"local" : 1
+			}
+,
+			"turtle.obj" : 			{
 				"kind" : "model",
 				"local" : 1
 			}
