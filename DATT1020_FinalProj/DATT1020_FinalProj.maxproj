@@ -2,7 +2,7 @@
 	"name" : "DATT1020_FinalProj",
 	"version" : 1,
 	"creationdate" : 3731303335,
-	"modificationdate" : 3732365132,
+	"modificationdate" : 3732529706,
 	"viewrect" : [ 951.0, 297.0, 296.0, 496.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -19,6 +19,16 @@
 		}
 ,
 		"media" : 		{
+			"Water.mp3" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
+			"Erased  08 - the end is near at hand.mp3" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
 			"seafloor.png" : 			{
 				"kind" : "imagefile",
 				"local" : 1
@@ -78,14 +88,25 @@
 				"kind" : "model",
 				"local" : 1
 			}
+,
+			"hagfish.obj" : 			{
+				"kind" : "model",
+				"local" : 1
+			}
+,
+			"octopus2.obj" : 			{
+				"kind" : "model",
+				"local" : 1
+			}
+,
+			"snap.mp3" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
 
 		}
 ,
 		"other" : 		{
-			"crab.mtl" : 			{
-				"kind" : "file",
-				"local" : 1
-			}
 
 		}
 
