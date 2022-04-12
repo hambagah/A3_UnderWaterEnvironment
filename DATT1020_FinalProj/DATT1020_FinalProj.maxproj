@@ -2,7 +2,7 @@
 	"name" : "DATT1020_FinalProj",
 	"version" : 1,
 	"creationdate" : 3731303335,
-	"modificationdate" : 3732529706,
+	"modificationdate" : 3732544194,
 	"viewrect" : [ 951.0, 297.0, 296.0, 496.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -19,6 +19,11 @@
 		}
 ,
 		"media" : 		{
+			"snap.mp3" : 			{
+				"kind" : "audiofile",
+				"local" : 1
+			}
+,
 			"Water.mp3" : 			{
 				"kind" : "audiofile",
 				"local" : 1
@@ -98,15 +103,24 @@
 				"kind" : "model",
 				"local" : 1
 			}
-,
-			"snap.mp3" : 			{
-				"kind" : "audiofile",
-				"local" : 1
-			}
 
 		}
 ,
-		"other" : 		{
+		"externals" : 		{
+			"ambidecode~.mxe64" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"ambiencode~.mxe64" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
+,
+			"ambimonitor.mxe64" : 			{
+				"kind" : "object",
+				"local" : 1
+			}
 
 		}
 
